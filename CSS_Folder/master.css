@@ -1,0 +1,24 @@
+body {
+    background-color: #F7ECDE !important;
+}
+
+
+.allpage {
+    margin-top: 50px !important;
+}
+
+.allpage h3 {
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #53A658;
+    font-family: "Righteous", sans-serif;
+
+}
+
+h1 {
+    margin-top: 200px !important;
+font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
